@@ -8,4 +8,6 @@ The whole report is one self-contained file, `index.html` (204 slides). You can 
 - ☰ Contents for the table of contents, F for full screen
 - Print from the browser to save it as a PDF (one slide per page)
 
+Part 2, China website design reference study: https://echos730.github.io/oeight-report/website-study/ (one self-contained file, `website-study/index.html`)
+
 October 2026
